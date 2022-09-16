@@ -1,3 +1,3 @@
 # Mission to Mars
 
-To grader: I'm only adding Deliverable 1 - I'll have the rest next week and resubmit this challenge. 
+To grader: For Deliverable 2 the images don't appear. For Deliverable 3, I changed the background color and made "Scrape New Data" button bold.
